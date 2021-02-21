@@ -27,6 +27,7 @@ namespace ClassMetotDemo
             Customer[] customers = new Customer[] { customer1, customer2 };
             Console.WriteLine("Müşteri Listesi");
             customerManager.List(customers);
+            Console.WriteLine("-------------");
         }
     }
 }
