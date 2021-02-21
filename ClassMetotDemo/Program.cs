@@ -28,6 +28,7 @@ namespace ClassMetotDemo
             Console.WriteLine("Müşteri Listesi");
             customerManager.List(customers);
             Console.WriteLine("-------------");
+            Console.WriteLine("Meltem Ataman");
         }
     }
 }
